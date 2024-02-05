@@ -13,6 +13,11 @@ html{
 P{
     color: rgb(85, 85, 85);
 }
+a{
+    text-decoration: none;
+    color: black;
+    text-decoration-color: white;
+}
 nav, .nav-links{
     display: flex;
 }
@@ -26,7 +31,7 @@ nav{
     gap: 2rem;
     font-size: 1.5rem;
 }
-.nav-links li a , .abutton{
+.nav-links li a {
     text-decoration: none;
     color: black;
     text-decoration-color: white;
