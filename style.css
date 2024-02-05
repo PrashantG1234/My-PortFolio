@@ -26,7 +26,7 @@ nav{
     gap: 2rem;
     font-size: 1.5rem;
 }
-.nav-links li a{
+.nav-links li a , .abutton{
     text-decoration: none;
     color: black;
     text-decoration-color: white;
